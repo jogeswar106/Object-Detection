@@ -6,3 +6,7 @@ Object detection is commonly confused with image recognition, so before we proce
 Modes and types of object detection.
   Broadly speaking, object detection can be broken down into machine learning-based approaches and deep learning-based approaches.
   In more traditional ML-based approaches, computer vision techniques are used to look at various features of an image, such as the colour histogram or       edges, to identify groups of pixels that may belong to an object. These features are then fed into a regression model that predicts the location of the     object along with its label.
+
+
+
+TO TRY (https://jogeswar106.github.io/Object-Detection/)
